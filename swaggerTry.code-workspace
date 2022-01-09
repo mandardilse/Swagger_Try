@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "webserver"
+		},
+		{
+			"name": "webclient",
+			"path": "webclient"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
